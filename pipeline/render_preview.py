@@ -20,6 +20,7 @@ def main(glb, png, wire=False):
     bpy.context.scene.collection.objects.link(cam)
     cam.location = centre + Vector((0.75, -0.95, 0.45)) * size
     cam.rotation_euler = (centre - cam.location).to_track_quat("-Z", "Y").to_euler()
+    cam.data.clip_start = size * 0.01   # tiny assets (a 2 cm part) sit inside the default 0.1 m
     cam.data.clip_end = size * 10
     scn = bpy.context.scene
     scn.camera = cam
