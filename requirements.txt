@@ -6,3 +6,4 @@ trimesh
 rtree
 pillow
 pytest
+scikit-image
