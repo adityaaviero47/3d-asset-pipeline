@@ -1,5 +1,7 @@
 # 3D Asset Automation Pipeline: Blender Cleanup, ML-Driven LODs, Render-Verified glTF
 
+[![tests](https://github.com/adityaaviero47/3d-asset-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/adityaaviero47/3d-asset-pipeline/actions/workflows/tests.yml)
+
 Raw 3D models rarely drop straight into a game engine or an XR headset. They
 come with duplicate vertices, degenerate faces, rotations and negative scales
 baked into parent nodes, 2K textures everywhere and far too many triangles for
@@ -169,6 +171,6 @@ pipeline/refine.py          stage 5: re-run failing LODs until they pass
 pipeline/render_preview.py  headless render of any .glb
 unity/                      C# LODGroup importer + cross-check against the pipeline
 tools/validate.mjs          Khronos glTF Validator wrapper
-tests/                      metric tests (self-error is zero, scale-free, monotonic)
+tests/                      metric tests (self-error is zero, scale-free, monotonic), run by GitHub Actions on every push
 results/                    every number above, per asset
 ```
