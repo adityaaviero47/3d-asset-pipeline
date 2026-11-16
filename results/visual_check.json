@@ -1,0 +1,1478 @@
+[
+ {
+  "asset": "ABeautifulGame",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9998650326620958,
+    "iou_mean": 0.9999403687960857,
+    "ssim_min": 0.9573629651840406,
+    "ssim_mean": 0.9702621021134763,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9996830427892235,
+    "iou_mean": 0.9999295613426753,
+    "ssim_min": 0.9728506527957821,
+    "ssim_mean": 0.9803551064141661,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9997840639170805,
+    "iou_mean": 0.9999160491512624,
+    "ssim_min": 0.9409372889298601,
+    "ssim_mean": 0.9600141279196941,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9993769470404984,
+    "iou_mean": 0.9998302816872503,
+    "ssim_min": 0.9829240368366594,
+    "ssim_mean": 0.9874618780342396,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "AnisotropyBarnLamp",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9988416988416988,
+    "iou_mean": 0.9991130823491085,
+    "ssim_min": 0.9594680572808958,
+    "ssim_mean": 0.9652428705448045,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.998706710734301,
+    "iou_mean": 0.9993621835706982,
+    "ssim_min": 0.9673759717758738,
+    "ssim_mean": 0.9743068827201345,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9893436118353928,
+    "iou_mean": 0.9903940580743821,
+    "ssim_min": 0.8322930243432847,
+    "ssim_mean": 0.8658453484912191,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9836512261580381,
+    "iou_mean": 0.9906562328656396,
+    "ssim_min": 0.9040951160750221,
+    "ssim_mean": 0.9342417660887407,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "AntiqueCamera",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.998937360178971,
+    "iou_mean": 0.9993041044035049,
+    "ssim_min": 0.9788485619097359,
+    "ssim_mean": 0.9804449956143578,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9991068238656663,
+    "iou_mean": 0.9993824708112645,
+    "ssim_min": 0.9799322451252445,
+    "ssim_mean": 0.982840666556266,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9796511627906976,
+    "iou_mean": 0.9843627579811969,
+    "ssim_min": 0.8933558005022418,
+    "ssim_mean": 0.9197264982636116,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9804822043628014,
+    "iou_mean": 0.9848704051423591,
+    "ssim_min": 0.9385849298639384,
+    "ssim_mean": 0.9455744343854168,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "Avocado",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9987051618547682,
+    "iou_mean": 0.9991263863937525,
+    "ssim_min": 0.9319321716784293,
+    "ssim_mean": 0.9733138633590608,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9984846397575423,
+    "iou_mean": 0.9992037115604337,
+    "ssim_min": 0.9229356737224234,
+    "ssim_mean": 0.9709376293372087,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.997623557775099,
+    "iou_mean": 0.9981667888399909,
+    "ssim_min": 0.9066788234278551,
+    "ssim_mean": 0.9602232142395882,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9973279893119572,
+    "iou_mean": 0.998663547834305,
+    "ssim_min": 0.9354598609786934,
+    "ssim_mean": 0.9731755288715527,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "BarramundiFish",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9968229954614221,
+    "iou_mean": 0.99757967129813,
+    "ssim_min": 0.9317922133098265,
+    "ssim_mean": 0.9460196484636422,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9965217391304347,
+    "iou_mean": 0.997661364025304,
+    "ssim_min": 0.9132043954177502,
+    "ssim_mean": 0.9433562774458012,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.998386749838675,
+    "iou_mean": 0.9986919093066048,
+    "ssim_min": 0.9311244298033875,
+    "ssim_mean": 0.9528550251276021,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9967689822294022,
+    "iou_mean": 0.9991254611537146,
+    "ssim_min": 0.8832272050774739,
+    "ssim_mean": 0.9473881886960883,
+    "pass": false
+   },
+   "pass": false
+  }
+ },
+ {
+  "asset": "BoomBox",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9994568759504671,
+    "iou_mean": 0.9996611459651091,
+    "ssim_min": 0.9279199286888418,
+    "ssim_mean": 0.9566643111872203,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9993991588223513,
+    "iou_mean": 0.9997484977855408,
+    "ssim_min": 0.9242584459166892,
+    "ssim_mean": 0.9543551021481124,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9983056738204883,
+    "iou_mean": 0.9988583270528548,
+    "ssim_min": 0.8963008193576404,
+    "ssim_mean": 0.936206634495195,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9975728155339806,
+    "iou_mean": 0.9994077856621707,
+    "ssim_min": 0.9083163148253416,
+    "ssim_mean": 0.9395219806335984,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "CarConcept",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9997683978924208,
+    "iou_mean": 0.9998559059557178,
+    "ssim_min": 0.9013164854946071,
+    "ssim_mean": 0.9302878619807734,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9995406874378014,
+    "iou_mean": 0.9998016288909302,
+    "ssim_min": 0.9217344270545633,
+    "ssim_mean": 0.9477654127504955,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9991318272143229,
+    "iou_mean": 0.9992830433080756,
+    "ssim_min": 0.8177322496457389,
+    "ssim_mean": 0.8613428845106363,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9990813045475425,
+    "iou_mean": 0.9995538106094767,
+    "ssim_min": 0.9095328604682279,
+    "ssim_mean": 0.9396096629523744,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "CarbonFibre",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9991271190333992,
+    "iou_mean": 0.9992419166420833,
+    "ssim_min": 0.9758729415615324,
+    "ssim_mean": 0.982910724539754,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9990913221263062,
+    "iou_mean": 0.9993637960816674,
+    "ssim_min": 0.9844245620528311,
+    "ssim_mean": 0.9890191429114262,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9959614502065167,
+    "iou_mean": 0.9961892009944461,
+    "ssim_min": 0.9291091929820463,
+    "ssim_mean": 0.9336862804801408,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9961706783369803,
+    "iou_mean": 0.9977206418672502,
+    "ssim_min": 0.9753864093223301,
+    "ssim_mean": 0.9795962921552898,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "CesiumMilkTruck",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9995580149567739,
+    "iou_mean": 0.9998422997916768,
+    "ssim_min": 0.9479387369616673,
+    "ssim_mean": 0.9747327115263654,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9997213708553915,
+    "iou_mean": 0.9998799564909492,
+    "ssim_min": 0.9305577777053083,
+    "ssim_mean": 0.9707951430085,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9968451352907312,
+    "iou_mean": 0.9977713651978363,
+    "ssim_min": 0.9153917400670417,
+    "ssim_mean": 0.9324523944391742,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9962962962962963,
+    "iou_mean": 0.9976515426151186,
+    "ssim_min": 0.9279640759686721,
+    "ssim_mean": 0.9601086085471643,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "ChairDamaskPurplegold",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.998976430976431,
+    "iou_mean": 0.9992536856382667,
+    "ssim_min": 0.9680885043568811,
+    "ssim_mean": 0.9755463246021233,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9992605894158656,
+    "iou_mean": 0.9994014399557117,
+    "ssim_min": 0.9706955364405766,
+    "ssim_mean": 0.9788363097471494,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9947055951065307,
+    "iou_mean": 0.9960086577157661,
+    "ssim_min": 0.9182269300740192,
+    "ssim_mean": 0.9342799374347447,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.995774647887324,
+    "iou_mean": 0.9975416203940908,
+    "ssim_min": 0.9448164652483934,
+    "ssim_mean": 0.9543032787513345,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "ChronographWatch",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9985589416489488,
+    "iou_mean": 0.9990776893355994,
+    "ssim_min": 0.9265289448577322,
+    "ssim_mean": 0.9308721456701808,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9988726042841037,
+    "iou_mean": 0.9992637357590315,
+    "ssim_min": 0.9432847820743337,
+    "ssim_mean": 0.9493227592518338,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9965298453830517,
+    "iou_mean": 0.9974695531198599,
+    "ssim_min": 0.8630821484437877,
+    "ssim_mean": 0.8877315713538719,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9976190476190476,
+    "iou_mean": 0.9985386382783221,
+    "ssim_min": 0.9282524497039062,
+    "ssim_mean": 0.9511521749376998,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "ClearCoatCarPaint",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.999058769513315,
+    "iou_mean": 0.9992241052563723,
+    "ssim_min": 0.961142378839143,
+    "ssim_mean": 0.9632662671552651,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9986295111923252,
+    "iou_mean": 0.9991042447069051,
+    "ssim_min": 0.9805847207995935,
+    "ssim_mean": 0.9817906680986027,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.996922649760522,
+    "iou_mean": 0.9970436009456457,
+    "ssim_min": 0.9247983315829363,
+    "ssim_mean": 0.931351400737568,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9940021810250818,
+    "iou_mean": 0.9969867391735298,
+    "ssim_min": 0.9865006694628126,
+    "ssim_mean": 0.9877501295131736,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "CommercialRefrigerator",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.9664651927210559,
+    "ssim_mean": 0.983194221463248,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.9671486283839323,
+    "ssim_mean": 0.9833927874200166,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.9529810863624001,
+    "ssim_mean": 0.9761377749800854,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.9655930770967673,
+    "ssim_mean": 0.9826171675179282,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "Corset",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9994846357018617,
+    "iou_mean": 0.9995425362145439,
+    "ssim_min": 0.9421806039436894,
+    "ssim_mean": 0.9590070897917445,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9996203973174744,
+    "iou_mean": 0.9997869837876144,
+    "ssim_min": 0.9398345142272423,
+    "ssim_mean": 0.9615114108432833,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9972784285883327,
+    "iou_mean": 0.9981157804749471,
+    "ssim_min": 0.8831770564192813,
+    "ssim_mean": 0.9158540771386444,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9952348536419333,
+    "iou_mean": 0.9980947217916608,
+    "ssim_min": 0.9324225262593521,
+    "ssim_mean": 0.9502303046920089,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "DamagedHelmet",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9985094490284802,
+    "iou_mean": 0.9990559242146744,
+    "ssim_min": 0.9301628565218002,
+    "ssim_mean": 0.9373987325641645,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9983326385994165,
+    "iou_mean": 0.9989377529975204,
+    "ssim_min": 0.9337626759221619,
+    "ssim_mean": 0.9419361992333298,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9973927849313611,
+    "iou_mean": 0.997970791469802,
+    "ssim_min": 0.8912651509251003,
+    "ssim_mean": 0.8992907129914441,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9962917181705809,
+    "iou_mean": 0.9977328952984202,
+    "ssim_min": 0.9025282006989144,
+    "ssim_mean": 0.91671954658708,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "DiffuseTransmissionPlant",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9985329739688171,
+    "iou_mean": 0.999372620389937,
+    "ssim_min": 0.9763003104933167,
+    "ssim_mean": 0.9789044935692619,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9983663689827924,
+    "iou_mean": 0.9994199901006712,
+    "ssim_min": 0.9766533710701939,
+    "ssim_mean": 0.9823881317465567,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9818120351588911,
+    "iou_mean": 0.9874587365074143,
+    "ssim_min": 0.8580474594319815,
+    "ssim_mean": 0.8770516539125484,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9871951219512195,
+    "iou_mean": 0.9908578951812972,
+    "ssim_min": 0.9314319755374917,
+    "ssim_mean": 0.9391455076367795,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "DragonAttenuation",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9993824982357092,
+    "iou_mean": 0.9996379882415379,
+    "ssim_min": 0.957382769689398,
+    "ssim_mean": 0.9738950006158825,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9994234982128445,
+    "iou_mean": 0.9997358464577513,
+    "ssim_min": 0.9778965568784599,
+    "ssim_mean": 0.9876468021980745,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.999088637365868,
+    "iou_mean": 0.9995676989652802,
+    "ssim_min": 0.9502566372212853,
+    "ssim_mean": 0.968079966274164,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9986366734832992,
+    "iou_mean": 0.9997727789138832,
+    "ssim_min": 0.9870955094477006,
+    "ssim_mean": 0.9915421210590128,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "Duck",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9996073812328229,
+    "iou_mean": 0.9998185702237316,
+    "ssim_min": 0.9873762255997892,
+    "ssim_mean": 0.9913540209567621,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9996617431502988,
+    "iou_mean": 0.9998345795293518,
+    "ssim_min": 0.989507907280329,
+    "ssim_mean": 0.9933940986791328,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9946353771158416,
+    "iou_mean": 0.9952840787763592,
+    "ssim_min": 0.9479613572201367,
+    "ssim_mean": 0.9603610285969681,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9924942263279446,
+    "iou_mean": 0.9952153335109482,
+    "ssim_min": 0.9786610633116323,
+    "ssim_mean": 0.9840327486687209,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "Fox",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.9999560782132733,
+    "ssim_mean": 0.9999780624945789,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.9998217868752564,
+    "ssim_mean": 0.999961049862193,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9999160862633213,
+    "iou_mean": 0.9999790124586947,
+    "ssim_min": 0.9981629547456778,
+    "ssim_mean": 0.9993199073699639,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.9996584543728951,
+    "ssim_mean": 0.9998446277172207,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "GlamVelvetSofa",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9988809728076392,
+    "iou_mean": 0.9991281882360328,
+    "ssim_min": 0.9337242280054483,
+    "ssim_mean": 0.9517018428200111,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9991253644314869,
+    "iou_mean": 0.9994032494967128,
+    "ssim_min": 0.9329386861927299,
+    "ssim_mean": 0.9594742566670922,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9929594827822371,
+    "iou_mean": 0.994638176796172,
+    "ssim_min": 0.8764910704041337,
+    "ssim_mean": 0.9126369754226764,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9915074309978769,
+    "iou_mean": 0.9954769681511418,
+    "ssim_min": 0.9234388966392505,
+    "ssim_mean": 0.9537735388146181,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "GlassHurricaneCandleHolder",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.999589650998174,
+    "iou_mean": 0.9997597308512657,
+    "ssim_min": 0.9811787946122577,
+    "ssim_mean": 0.9873516687561489,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9995954037870206,
+    "iou_mean": 0.9997507864348361,
+    "ssim_min": 0.9875535812053811,
+    "ssim_mean": 0.9899336183060751,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9938718206226558,
+    "iou_mean": 0.9956061438116945,
+    "ssim_min": 0.9183530536003197,
+    "ssim_mean": 0.9351167034304017,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9942112879884226,
+    "iou_mean": 0.9961635813065381,
+    "ssim_min": 0.9412449852626301,
+    "ssim_mean": 0.9639274259256605,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "GlassVaseFlowers",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9994864625830933,
+    "iou_mean": 0.9995775732319948,
+    "ssim_min": 0.9645514619172997,
+    "ssim_mean": 0.977083653652846,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9992348054219502,
+    "iou_mean": 0.9994595605142895,
+    "ssim_min": 0.9635152488385219,
+    "ssim_mean": 0.97847533394323,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9917541016235889,
+    "iou_mean": 0.9927259470053512,
+    "ssim_min": 0.9213354077848395,
+    "ssim_mean": 0.9400121726348666,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9917302798982188,
+    "iou_mean": 0.9944716729568505,
+    "ssim_min": 0.9268949556481697,
+    "ssim_mean": 0.955910329892261,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "IridescenceLamp",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9996260284218399,
+    "iou_mean": 0.9997489849253277,
+    "ssim_min": 0.9611006556817012,
+    "ssim_mean": 0.972106571538723,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9993797487982633,
+    "iou_mean": 0.9996437547109133,
+    "ssim_min": 0.9467787439471447,
+    "ssim_mean": 0.9635323411886146,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9995276427404594,
+    "iou_mean": 0.9996912702776696,
+    "ssim_min": 0.9592400449048877,
+    "ssim_mean": 0.9711957319764566,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.999507874015748,
+    "iou_mean": 0.9997628319252172,
+    "ssim_min": 0.9365498330824219,
+    "ssim_mean": 0.9606245208084508,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "IridescentDishWithOlives",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9987207242668766,
+    "iou_mean": 0.9991896806356374,
+    "ssim_min": 0.9612503805926597,
+    "ssim_mean": 0.967025383083994,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9979431803573724,
+    "iou_mean": 0.998966147113197,
+    "ssim_min": 0.9642015316829747,
+    "ssim_mean": 0.9707476137756146,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.996355459057072,
+    "iou_mean": 0.9967093421218899,
+    "ssim_min": 0.8574529994855263,
+    "ssim_mean": 0.8925405848242437,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9954337899543378,
+    "iou_mean": 0.9968126162641578,
+    "ssim_min": 0.9404620976955608,
+    "ssim_mean": 0.9574928256028313,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "Lantern",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9998730561726437,
+    "iou_mean": 0.9999788426954406,
+    "ssim_min": 0.953955867083588,
+    "ssim_mean": 0.9783043151462979,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.9369870727570788,
+    "ssim_mean": 0.9734212509095079,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9996191685179309,
+    "iou_mean": 0.9998858906620128,
+    "ssim_min": 0.8565119606907734,
+    "ssim_mean": 0.9151891191074718,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.998876404494382,
+    "iou_mean": 0.999812734082397,
+    "ssim_min": 0.7012957423015161,
+    "ssim_mean": 0.8808064954982955,
+    "pass": false
+   },
+   "pass": false
+  }
+ },
+ {
+  "asset": "MaterialsVariantsShoe",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9977627095308574,
+    "iou_mean": 0.9980734910342718,
+    "ssim_min": 0.9412818283697285,
+    "ssim_mean": 0.9563663709056142,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9972857142857143,
+    "iou_mean": 0.9978781774853894,
+    "ssim_min": 0.9444116290830402,
+    "ssim_mean": 0.9674020113736299,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9951858601836251,
+    "iou_mean": 0.9958905942041523,
+    "ssim_min": 0.8853024510476194,
+    "ssim_mean": 0.9041443505571499,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9904988123515439,
+    "iou_mean": 0.994824704942682,
+    "ssim_min": 0.9485428260263354,
+    "ssim_mean": 0.9581908779208685,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "MosquitoInAmber",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9999336767404329,
+    "iou_mean": 0.9999649051621434,
+    "ssim_min": 0.9527190591287614,
+    "ssim_mean": 0.9551517610982411,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9999126332343177,
+    "iou_mean": 0.9999710387802256,
+    "ssim_min": 0.9669550389432163,
+    "ssim_mean": 0.9689857182584168,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9961281834414059,
+    "iou_mean": 0.9966695461154806,
+    "ssim_min": 0.8602355967966754,
+    "ssim_mean": 0.8772345978653678,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9937022042285201,
+    "iou_mean": 0.9958647765419806,
+    "ssim_min": 0.9425006968788515,
+    "ssim_mean": 0.9534794713748321,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "PotOfCoals",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9985852753933508,
+    "iou_mean": 0.9988275162979692,
+    "ssim_min": 0.89710173150376,
+    "ssim_mean": 0.9313046404924813,
+    "pass": false
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9986390443066687,
+    "iou_mean": 0.9989764294890727,
+    "ssim_min": 0.9278449656844712,
+    "ssim_mean": 0.9501914140182209,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9972094801223241,
+    "iou_mean": 0.9977707424426038,
+    "ssim_min": 0.8123404571349676,
+    "ssim_mean": 0.8700112561565359,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9954337899543378,
+    "iou_mean": 0.9972346313253402,
+    "ssim_min": 0.9114527573726398,
+    "ssim_mean": 0.9459020354280842,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "SheenChair",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9975904238781221,
+    "iou_mean": 0.9980254473366047,
+    "ssim_min": 0.9640413807359182,
+    "ssim_mean": 0.9689706003574985,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9973134692880694,
+    "iou_mean": 0.9980915151128241,
+    "ssim_min": 0.9769713406316809,
+    "ssim_mean": 0.9800597963241633,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9951297860214496,
+    "iou_mean": 0.9965232786967646,
+    "ssim_min": 0.9354579959733437,
+    "ssim_mean": 0.9490688343281714,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.995049504950495,
+    "iou_mean": 0.9972666571756227,
+    "ssim_min": 0.96928601728819,
+    "ssim_mean": 0.9748819022827427,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "SheenWoodLeatherSofa",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9994762752697183,
+    "iou_mean": 0.9996714787650518,
+    "ssim_min": 0.9089557797143933,
+    "ssim_mean": 0.9501233113581774,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9995881383855024,
+    "iou_mean": 0.9997508224066673,
+    "ssim_min": 0.9153984115617957,
+    "ssim_mean": 0.9547670562940683,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9992929901280474,
+    "iou_mean": 0.9996190803104428,
+    "ssim_min": 0.8826646415397825,
+    "ssim_mean": 0.9373096128752575,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9987473903966597,
+    "iou_mean": 0.9993018497115466,
+    "ssim_min": 0.9129763612851299,
+    "ssim_mean": 0.9615274908941186,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "SpecularSilkPouf",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9992340425531915,
+    "iou_mean": 0.9993154126697866,
+    "ssim_min": 0.9459972898632335,
+    "ssim_mean": 0.9560567571882501,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.999096351519259,
+    "iou_mean": 0.9993074169291912,
+    "ssim_min": 0.9564149012625291,
+    "ssim_mean": 0.9643041913627576,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9971040571316108,
+    "iou_mean": 0.9978252000255236,
+    "ssim_min": 0.8163644043251834,
+    "ssim_mean": 0.8424091684477624,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9959946595460614,
+    "iou_mean": 0.9983480846989631,
+    "ssim_min": 0.9079663437382126,
+    "ssim_mean": 0.9167412568077927,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "SunglassesKhronos",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9962295275126665,
+    "iou_mean": 0.9971876119558316,
+    "ssim_min": 0.9871397874721524,
+    "ssim_mean": 0.9923210640582018,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9954642475987193,
+    "iou_mean": 0.9971464702232593,
+    "ssim_min": 0.9828981579431784,
+    "ssim_mean": 0.9914883010178673,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9910404624277457,
+    "iou_mean": 0.9922030503031446,
+    "ssim_min": 0.9710098502612878,
+    "ssim_mean": 0.9811639423441655,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9930151338766007,
+    "iou_mean": 0.995383693996642,
+    "ssim_min": 0.9500901503829116,
+    "ssim_mean": 0.9679459200867783,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "ToyCar",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.999054128272411,
+    "iou_mean": 0.9992451124973819,
+    "ssim_min": 0.8961250536467581,
+    "ssim_mean": 0.9149408051114528,
+    "pass": false
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9991632799426249,
+    "iou_mean": 0.9994668786332603,
+    "ssim_min": 0.9231142942116171,
+    "ssim_mean": 0.9377761267156366,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.997867803837953,
+    "iou_mean": 0.9982955233568657,
+    "ssim_min": 0.8323857829830533,
+    "ssim_mean": 0.8556916962225589,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.9968479117415288,
+    "iou_mean": 0.998329769137757,
+    "ssim_min": 0.9096616382629137,
+    "ssim_mean": 0.9229468974378596,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "TrafficCone",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9999389760175749,
+    "iou_mean": 0.9999898293362625,
+    "ssim_min": 0.9948855560711398,
+    "ssim_mean": 0.9971749501946171,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.9970752013694425,
+    "ssim_mean": 0.9983991661427511,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9999389760175749,
+    "iou_mean": 0.999984773928999,
+    "ssim_min": 0.8898352852197762,
+    "ssim_mean": 0.9224688294614749,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 0.904829695558445,
+    "ssim_mean": 0.9397697057564226,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "VirtualCity",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 1.0,
+    "ssim_mean": 1.0,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 1.0,
+    "ssim_mean": 1.0,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 1.0,
+    "ssim_mean": 1.0,
+    "pass": true
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 1.0,
+    "iou_mean": 1.0,
+    "ssim_min": 1.0,
+    "ssim_mean": 1.0,
+    "pass": true
+   },
+   "pass": true
+  }
+ },
+ {
+  "asset": "WaterBottle",
+  "LOD1": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9998609888327695,
+    "iou_mean": 0.9999377544858565,
+    "ssim_min": 0.9206081304588424,
+    "ssim_mean": 0.9509318924670361,
+    "pass": true
+   },
+   "switch": {
+    "res": 200,
+    "iou_min": 0.9998174516246805,
+    "iou_mean": 0.999905666045087,
+    "ssim_min": 0.9131383599309565,
+    "ssim_mean": 0.9479862145912041,
+    "pass": true
+   },
+   "pass": true
+  },
+  "LOD2": {
+   "full": {
+    "res": 400,
+    "iou_min": 0.9989675820772249,
+    "iou_mean": 0.9991094722159071,
+    "ssim_min": 0.8594225638940133,
+    "ssim_mean": 0.8948210475367464,
+    "pass": false
+   },
+   "switch": {
+    "res": 80,
+    "iou_min": 0.998911860718172,
+    "iou_mean": 0.9995270518929269,
+    "ssim_min": 0.8242158992792434,
+    "ssim_mean": 0.8914042331469795,
+    "pass": false
+   },
+   "pass": false
+  }
+ }
+]
