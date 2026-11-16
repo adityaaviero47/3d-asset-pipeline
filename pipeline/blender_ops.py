@@ -127,3 +127,15 @@ def export_glb(path, objects):
 def safe_name(s):
     out = "".join(c if c.isalnum() else "_" for c in s).strip("_")
     return out or "mesh"
+
+
+def cap_textures(max_px):
+    """Downscale every texture whose longest side exceeds max_px (in place)."""
+    n = 0
+    for im in bpy.data.images:
+        w, h = im.size
+        if max(w, h) > max_px:
+            f = max_px / max(w, h)
+            im.scale(max(1, int(w * f)), max(1, int(h * f)))
+            n += 1
+    return n
