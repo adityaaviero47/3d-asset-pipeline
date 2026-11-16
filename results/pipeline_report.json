@@ -1,0 +1,2018 @@
+[
+ {
+  "asset": "ABeautifulGame",
+  "meshes": 49,
+  "seconds": 101.48,
+  "fixable_issues_before": 195794,
+  "fixable_issues_after": 232,
+  "audit_before": {
+   "verts": 944100,
+   "tris": 1498828,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 788,
+   "non_manifold_edges": 280170,
+   "ngons": 0,
+   "duplicate_verts": 195004,
+   "unapplied_transform": 2,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 749092,
+   "tris": 1497768,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 232,
+   "non_manifold_edges": 472,
+   "ngons": 64,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 1497768,
+   "LOD1": 251568,
+   "LOD2": 117312
+  },
+  "measure_runs": 98,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 49,
+   "LOD1": 49,
+   "LOD2": 49
+  },
+  "bytes": {
+   "LOD0": 47370080,
+   "LOD1": 23764464,
+   "LOD2": 21375472
+  }
+ },
+ {
+  "asset": "AnisotropyBarnLamp",
+  "meshes": 3,
+  "seconds": 3.36,
+  "fixable_issues_before": 2512,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 7712,
+   "tris": 10203,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 4837,
+   "ngons": 0,
+   "duplicate_verts": 2512,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 2,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 5200,
+   "tris": 10203,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 113,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 2,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 10203,
+   "LOD1": 5540,
+   "LOD2": 2563
+  },
+  "measure_runs": 4,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 7693528,
+   "LOD1": 7575740,
+   "LOD2": 7496228
+  }
+ },
+ {
+  "asset": "AntiqueCamera",
+  "meshes": 2,
+  "seconds": 7.2,
+  "fixable_issues_before": 10959,
+  "fixable_issues_after": 1,
+  "audit_before": {
+   "verts": 21178,
+   "tris": 20066,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 6,
+   "non_manifold_edges": 19552,
+   "ngons": 0,
+   "duplicate_verts": 10951,
+   "unapplied_transform": 2,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 10227,
+   "tris": 20066,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 1,
+   "non_manifold_edges": 289,
+   "ngons": 2,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 20066,
+   "LOD1": 13434,
+   "LOD2": 5407
+  },
+  "measure_runs": 4,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 2,
+   "LOD1": 2,
+   "LOD2": 2
+  },
+  "bytes": {
+   "LOD0": 17483596,
+   "LOD1": 17282172,
+   "LOD2": 17007988
+  }
+ },
+ {
+  "asset": "Avocado",
+  "meshes": 1,
+  "seconds": 1.15,
+  "fixable_issues_before": 44,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 406,
+   "tris": 682,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 124,
+   "ngons": 0,
+   "duplicate_verts": 43,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 363,
+   "tris": 682,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 38,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 682,
+   "LOD1": 545,
+   "LOD2": 341
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 8103676,
+   "LOD1": 8100104,
+   "LOD2": 8095232
+  }
+ },
+ {
+  "asset": "BarramundiFish",
+  "meshes": 1,
+  "seconds": 1.27,
+  "fixable_issues_before": 251,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 2188,
+   "tris": 3864,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 500,
+   "ngons": 0,
+   "duplicate_verts": 250,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 1938,
+   "tris": 3864,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 0,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 3864,
+   "LOD1": 1932,
+   "LOD2": 772
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 12453252,
+   "LOD1": 12407548,
+   "LOD2": 12380520
+  }
+ },
+ {
+  "asset": "BoomBox",
+  "meshes": 1,
+  "seconds": 1.41,
+  "fixable_issues_before": 443,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 3575,
+   "tris": 6036,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1092,
+   "ngons": 0,
+   "duplicate_verts": 442,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 3133,
+   "tris": 6036,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 194,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 6036,
+   "LOD1": 3620,
+   "LOD2": 1207
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 10556688,
+   "LOD1": 10498960,
+   "LOD2": 10439928
+  }
+ },
+ {
+  "asset": "CarConcept",
+  "meshes": 97,
+  "seconds": 56.3,
+  "fixable_issues_before": 50081,
+  "fixable_issues_after": 6,
+  "audit_before": {
+   "verts": 162766,
+   "tris": 213347,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 20,
+   "non_manifold_edges": 98647,
+   "ngons": 0,
+   "duplicate_verts": 49964,
+   "unapplied_transform": 97,
+   "negative_scale": 0,
+   "no_uv": 8,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 112802,
+   "tris": 213279,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 6,
+   "non_manifold_edges": 13183,
+   "ngons": 10,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 8,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 213279,
+   "LOD1": 78250,
+   "LOD2": 42056
+  },
+  "measure_runs": 120,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 56,
+   "LOD1": 56,
+   "LOD2": 56
+  },
+  "bytes": {
+   "LOD0": 10877732,
+   "LOD1": 6433852,
+   "LOD2": 5105504
+  }
+ },
+ {
+  "asset": "CarbonFibre",
+  "meshes": 1,
+  "seconds": 0.73,
+  "fixable_issues_before": 143,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 2129,
+   "tris": 3968,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 284,
+   "ngons": 0,
+   "duplicate_verts": 143,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 1986,
+   "tris": 3968,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 0,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 3968,
+   "LOD1": 2380,
+   "LOD2": 792
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 429544,
+   "LOD1": 392940,
+   "LOD2": 357288
+  }
+ },
+ {
+  "asset": "CesiumMilkTruck",
+  "meshes": 3,
+  "seconds": 6.96,
+  "fixable_issues_before": 2986,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 4823,
+   "tris": 3624,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 4444,
+   "ngons": 0,
+   "duplicate_verts": 2983,
+   "unapplied_transform": 3,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 1840,
+   "tris": 3624,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 8,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 3624,
+   "LOD1": 3206,
+   "LOD2": 2370
+  },
+  "measure_runs": 16,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "bytes": {
+   "LOD0": 347456,
+   "LOD1": 335892,
+   "LOD2": 311576
+  }
+ },
+ {
+  "asset": "ChairDamaskPurplegold",
+  "meshes": 11,
+  "seconds": 5.9,
+  "fixable_issues_before": 904,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 6275,
+   "tris": 9984,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 2424,
+   "ngons": 0,
+   "duplicate_verts": 902,
+   "unapplied_transform": 2,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 5373,
+   "tris": 9984,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 672,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 9984,
+   "LOD1": 6825,
+   "LOD2": 3909
+  },
+  "measure_runs": 14,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 9,
+   "LOD1": 9,
+   "LOD2": 9
+  },
+  "bytes": {
+   "LOD0": 2467132,
+   "LOD1": 2383928,
+   "LOD2": 2302380
+  }
+ },
+ {
+  "asset": "ChronographWatch",
+  "meshes": 13,
+  "seconds": 18.47,
+  "fixable_issues_before": 53922,
+  "fixable_issues_after": 3,
+  "audit_before": {
+   "verts": 104765,
+   "tris": 100002,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 26,
+   "non_manifold_edges": 87968,
+   "ngons": 0,
+   "duplicate_verts": 53891,
+   "unapplied_transform": 5,
+   "negative_scale": 0,
+   "no_uv": 5,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 50874,
+   "tris": 99264,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 3,
+   "non_manifold_edges": 4287,
+   "ngons": 5,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 5,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 99264,
+   "LOD1": 37088,
+   "LOD2": 23668
+  },
+  "measure_runs": 18,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 6702436,
+   "LOD1": 4835948,
+   "LOD2": 4384956
+  }
+ },
+ {
+  "asset": "ClearCoatCarPaint",
+  "meshes": 1,
+  "seconds": 0.69,
+  "fixable_issues_before": 190,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 1728,
+   "tris": 3072,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 384,
+   "ngons": 0,
+   "duplicate_verts": 190,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 1538,
+   "tris": 3072,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 0,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 3072,
+   "LOD1": 2150,
+   "LOD2": 920
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 116740,
+   "LOD1": 95816,
+   "LOD2": 66536
+  }
+ },
+ {
+  "asset": "CommercialRefrigerator",
+  "meshes": 6,
+  "seconds": 13.7,
+  "fixable_issues_before": 8814,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 116820,
+   "tris": 208679,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 23239,
+   "ngons": 0,
+   "duplicate_verts": 8808,
+   "unapplied_transform": 6,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 108012,
+   "tris": 208679,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 6655,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 208679,
+   "LOD1": 23046,
+   "LOD2": 22367
+  },
+  "measure_runs": 4,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 3,
+   "LOD1": 3,
+   "LOD2": 3
+  },
+  "bytes": {
+   "LOD0": 7934188,
+   "LOD1": 3638216,
+   "LOD2": 3608736
+  }
+ },
+ {
+  "asset": "Corset",
+  "meshes": 1,
+  "seconds": 4.6,
+  "fixable_issues_before": 1756,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 11505,
+   "tris": 18324,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 4522,
+   "ngons": 0,
+   "duplicate_verts": 1755,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 9750,
+   "tris": 18324,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1144,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 18324,
+   "LOD1": 9162,
+   "LOD2": 5497
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 13306980,
+   "LOD1": 13075128,
+   "LOD2": 12982992
+  }
+ },
+ {
+  "asset": "DamagedHelmet",
+  "meshes": 1,
+  "seconds": 3.91,
+  "fixable_issues_before": 5896,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 14556,
+   "tris": 15452,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 11860,
+   "ngons": 0,
+   "duplicate_verts": 5895,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 8661,
+   "tris": 15452,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1827,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 15452,
+   "LOD1": 9271,
+   "LOD2": 4635
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 8451252,
+   "LOD1": 8275632,
+   "LOD2": 8139592
+  }
+ },
+ {
+  "asset": "DiffuseTransmissionPlant",
+  "meshes": 9,
+  "seconds": 6.08,
+  "fixable_issues_before": 14698,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 50369,
+   "tris": 68409,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 28489,
+   "ngons": 0,
+   "duplicate_verts": 14692,
+   "unapplied_transform": 6,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 35677,
+   "tris": 68409,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1723,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 68409,
+   "LOD1": 46490,
+   "LOD2": 18649
+  },
+  "measure_runs": 6,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 9,
+   "LOD1": 9,
+   "LOD2": 9
+  },
+  "bytes": {
+   "LOD0": 5579636,
+   "LOD1": 5011924,
+   "LOD2": 4266376
+  }
+ },
+ {
+  "asset": "DragonAttenuation",
+  "meshes": 2,
+  "seconds": 9.74,
+  "fixable_issues_before": 71575,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 139379,
+   "tris": 134995,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 104623,
+   "ngons": 0,
+   "duplicate_verts": 71573,
+   "unapplied_transform": 2,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 67806,
+   "tris": 134990,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 632,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 134990,
+   "LOD1": 31739,
+   "LOD2": 13497
+  },
+  "measure_runs": 4,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "bytes": {
+   "LOD0": 5198944,
+   "LOD1": 1720956,
+   "LOD2": 1076172
+  }
+ },
+ {
+  "asset": "Duck",
+  "meshes": 1,
+  "seconds": 0.83,
+  "fixable_issues_before": 292,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 2399,
+   "tris": 4212,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 576,
+   "ngons": 0,
+   "duplicate_verts": 291,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 2108,
+   "tris": 4212,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 0,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 4212,
+   "LOD1": 2948,
+   "LOD2": 1262
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "bytes": {
+   "LOD0": 115800,
+   "LOD1": 87704,
+   "LOD2": 48908
+  }
+ },
+ {
+  "asset": "Fox",
+  "meshes": 2,
+  "seconds": 0.76,
+  "fixable_issues_before": 1438,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 1770,
+   "tris": 656,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1728,
+   "ngons": 0,
+   "duplicate_verts": 1438,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 1
+  },
+  "audit_after": {
+   "verts": 332,
+   "tris": 656,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 0,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 1
+  },
+  "tris": {
+   "LOD0": 656,
+   "LOD1": 598,
+   "LOD2": 540
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "bytes": {
+   "LOD0": 79504,
+   "LOD1": 77108,
+   "LOD2": 74168
+  }
+ },
+ {
+  "asset": "GlamVelvetSofa",
+  "meshes": 3,
+  "seconds": 1.72,
+  "fixable_issues_before": 739,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 3118,
+   "tris": 4196,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1920,
+   "ngons": 0,
+   "duplicate_verts": 739,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 2379,
+   "tris": 4196,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 540,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 4196,
+   "LOD1": 2314,
+   "LOD2": 888
+  },
+  "measure_runs": 4,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 3144044,
+   "LOD1": 3096980,
+   "LOD2": 3059224
+  }
+ },
+ {
+  "asset": "GlassHurricaneCandleHolder",
+  "meshes": 2,
+  "seconds": 2.97,
+  "fixable_issues_before": 315,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 2386,
+   "tris": 4126,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 622,
+   "ngons": 0,
+   "duplicate_verts": 314,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 2072,
+   "tris": 4126,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 4,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 4126,
+   "LOD1": 3298,
+   "LOD2": 1893
+  },
+  "measure_runs": 5,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "bytes": {
+   "LOD0": 2704184,
+   "LOD1": 2685148,
+   "LOD2": 2652748
+  }
+ },
+ {
+  "asset": "GlassVaseFlowers",
+  "meshes": 4,
+  "seconds": 3.9,
+  "fixable_issues_before": 388,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 8550,
+   "tris": 14036,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 2920,
+   "ngons": 0,
+   "duplicate_verts": 386,
+   "unapplied_transform": 2,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 8164,
+   "tris": 14036,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 2132,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 14036,
+   "LOD1": 7658,
+   "LOD2": 3446
+  },
+  "measure_runs": 8,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 2,
+   "LOD1": 2,
+   "LOD2": 2
+  },
+  "bytes": {
+   "LOD0": 2106824,
+   "LOD1": 1978608,
+   "LOD2": 1884604
+  }
+ },
+ {
+  "asset": "IridescenceLamp",
+  "meshes": 3,
+  "seconds": 3.73,
+  "fixable_issues_before": 979,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 10683,
+   "tris": 18866,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 2416,
+   "ngons": 0,
+   "duplicate_verts": 979,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 9704,
+   "tris": 18866,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 550,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 18866,
+   "LOD1": 8300,
+   "LOD2": 3052
+  },
+  "measure_runs": 6,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "bytes": {
+   "LOD0": 4075576,
+   "LOD1": 3830900,
+   "LOD2": 3711260
+  }
+ },
+ {
+  "asset": "IridescentDishWithOlives",
+  "meshes": 4,
+  "seconds": 5.22,
+  "fixable_issues_before": 2541,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 14863,
+   "tris": 24448,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 5146,
+   "ngons": 0,
+   "duplicate_verts": 2537,
+   "unapplied_transform": 4,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 12326,
+   "tris": 24448,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 0,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 24448,
+   "LOD1": 15680,
+   "LOD2": 7126
+  },
+  "measure_runs": 8,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 3,
+   "LOD1": 3,
+   "LOD2": 3
+  },
+  "bytes": {
+   "LOD0": 5687840,
+   "LOD1": 5408276,
+   "LOD2": 5147508
+  }
+ },
+ {
+  "asset": "Lantern",
+  "meshes": 3,
+  "seconds": 6.23,
+  "fixable_issues_before": 1415,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 4145,
+   "tris": 5394,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 1,
+   "non_manifold_edges": 2598,
+   "ngons": 0,
+   "duplicate_verts": 1411,
+   "unapplied_transform": 3,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 2734,
+   "tris": 5388,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 48,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 5388,
+   "LOD1": 3644,
+   "LOD2": 2034
+  },
+  "measure_runs": 12,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 3,
+   "LOD1": 3,
+   "LOD2": 3
+  },
+  "bytes": {
+   "LOD0": 9491248,
+   "LOD1": 9446576,
+   "LOD2": 9405104
+  }
+ },
+ {
+  "asset": "MaterialsVariantsShoe",
+  "meshes": 1,
+  "seconds": 2.29,
+  "fixable_issues_before": 1609,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 13540,
+   "tris": 22700,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 4246,
+   "ngons": 0,
+   "duplicate_verts": 1608,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 11932,
+   "tris": 22700,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1156,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 22700,
+   "LOD1": 6810,
+   "LOD2": 3405
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 7690024,
+   "LOD1": 7314996,
+   "LOD2": 7230184
+  }
+ },
+ {
+  "asset": "MosquitoInAmber",
+  "meshes": 3,
+  "seconds": 3.48,
+  "fixable_issues_before": 8541,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 18678,
+   "tris": 14349,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 16671,
+   "ngons": 0,
+   "duplicate_verts": 8538,
+   "unapplied_transform": 3,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 10132,
+   "tris": 14339,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 4359,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 14339,
+   "LOD1": 11654,
+   "LOD2": 6159
+  },
+  "measure_runs": 9,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 2,
+   "LOD1": 2,
+   "LOD2": 2
+  },
+  "bytes": {
+   "LOD0": 23898736,
+   "LOD1": 23781228,
+   "LOD2": 23575768
+  }
+ },
+ {
+  "asset": "PotOfCoals",
+  "meshes": 2,
+  "seconds": 3.02,
+  "fixable_issues_before": 45359,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 54669,
+   "tris": 18223,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 54669,
+   "ngons": 0,
+   "duplicate_verts": 45357,
+   "unapplied_transform": 2,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 9312,
+   "tris": 18223,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 395,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 18223,
+   "LOD1": 8579,
+   "LOD2": 2465
+  },
+  "measure_runs": 4,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 2,
+   "LOD1": 2,
+   "LOD2": 2
+  },
+  "bytes": {
+   "LOD0": 3142448,
+   "LOD1": 2927236,
+   "LOD2": 2789064
+  }
+ },
+ {
+  "asset": "SheenChair",
+  "meshes": 4,
+  "seconds": 4.69,
+  "fixable_issues_before": 1775,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 22459,
+   "tris": 39936,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 4840,
+   "ngons": 0,
+   "duplicate_verts": 1774,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 20685,
+   "tris": 39936,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1344,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 39936,
+   "LOD1": 7981,
+   "LOD2": 4106
+  },
+  "measure_runs": 6,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 4602932,
+   "LOD1": 3733296,
+   "LOD2": 3616116
+  }
+ },
+ {
+  "asset": "SheenWoodLeatherSofa",
+  "meshes": 6,
+  "seconds": 6.85,
+  "fixable_issues_before": 119619,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 139476,
+   "tris": 46492,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 139476,
+   "ngons": 0,
+   "duplicate_verts": 119613,
+   "unapplied_transform": 6,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 19863,
+   "tris": 37532,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 2136,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 37532,
+   "LOD1": 10918,
+   "LOD2": 4010
+  },
+  "measure_runs": 13,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 6,
+   "LOD1": 6,
+   "LOD2": 6
+  },
+  "bytes": {
+   "LOD0": 4695396,
+   "LOD1": 3941120,
+   "LOD2": 3722652
+  }
+ },
+ {
+  "asset": "SpecularSilkPouf",
+  "meshes": 1,
+  "seconds": 5.41,
+  "fixable_issues_before": 690,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 41832,
+   "tris": 81280,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 2114,
+   "ngons": 0,
+   "duplicate_verts": 689,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 41143,
+   "tris": 81280,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1000,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 81280,
+   "LOD1": 32512,
+   "LOD2": 8128
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 4141000,
+   "LOD1": 3056544,
+   "LOD2": 2506716
+  }
+ },
+ {
+  "asset": "SunglassesKhronos",
+  "meshes": 8,
+  "seconds": 5.04,
+  "fixable_issues_before": 508,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 7420,
+   "tris": 13396,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1336,
+   "ngons": 0,
+   "duplicate_verts": 500,
+   "unapplied_transform": 8,
+   "negative_scale": 0,
+   "no_uv": 6,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 6920,
+   "tris": 13396,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 384,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 6,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 13396,
+   "LOD1": 5931,
+   "LOD2": 2389
+  },
+  "measure_runs": 12,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "bytes": {
+   "LOD0": 365960,
+   "LOD1": 216820,
+   "LOD2": 148984
+  }
+ },
+ {
+  "asset": "ToyCar",
+  "meshes": 3,
+  "seconds": 9.68,
+  "fixable_issues_before": 21038,
+  "fixable_issues_after": 30,
+  "audit_before": {
+   "verts": 77429,
+   "tris": 108936,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 42104,
+   "ngons": 0,
+   "duplicate_verts": 21035,
+   "unapplied_transform": 3,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 53590,
+   "tris": 103793,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 3613,
+   "ngons": 129,
+   "duplicate_verts": 30,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 103793,
+   "LOD1": 16792,
+   "LOD2": 10377
+  },
+  "measure_runs": 6,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 2,
+   "LOD1": 2,
+   "LOD2": 2
+  },
+  "bytes": {
+   "LOD0": 4603284,
+   "LOD1": 2310504,
+   "LOD2": 2125440
+  }
+ },
+ {
+  "asset": "TrafficCone",
+  "meshes": 4,
+  "seconds": 6.05,
+  "fixable_issues_before": 1846,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 10539,
+   "tris": 17224,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 2,
+   "non_manifold_edges": 4352,
+   "ngons": 0,
+   "duplicate_verts": 1842,
+   "unapplied_transform": 2,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 8697,
+   "tris": 17208,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 184,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 17208,
+   "LOD1": 2748,
+   "LOD2": 1900
+  },
+  "measure_runs": 4,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "bytes": {
+   "LOD0": 2100568,
+   "LOD1": 1786836,
+   "LOD2": 1764260
+  }
+ },
+ {
+  "asset": "VirtualCity",
+  "meshes": 135,
+  "seconds": 12.31,
+  "fixable_issues_before": 14712,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 19483,
+   "tris": 8383,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 19695,
+   "ngons": 0,
+   "duplicate_verts": 14564,
+   "unapplied_transform": 135,
+   "negative_scale": 13,
+   "no_uv": 18,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 4919,
+   "tris": 8353,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 1197,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 18,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 8353,
+   "LOD1": 8113,
+   "LOD2": 7135
+  },
+  "measure_runs": 8,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "bytes": {
+   "LOD0": 1834400,
+   "LOD1": 1821532,
+   "LOD2": 1768828
+  }
+ },
+ {
+  "asset": "WaterBottle",
+  "meshes": 1,
+  "seconds": 1.61,
+  "fixable_issues_before": 165,
+  "fixable_issues_after": 0,
+  "audit_before": {
+   "verts": 2549,
+   "tris": 4510,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 582,
+   "ngons": 0,
+   "duplicate_verts": 164,
+   "unapplied_transform": 1,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "audit_after": {
+   "verts": 2385,
+   "tris": 4510,
+   "loose_verts": 0,
+   "loose_edges": 0,
+   "zero_area_faces": 0,
+   "non_manifold_edges": 264,
+   "ngons": 0,
+   "duplicate_verts": 0,
+   "unapplied_transform": 0,
+   "negative_scale": 0,
+   "no_uv": 0,
+   "no_material": 0
+  },
+  "tris": {
+   "LOD0": 4510,
+   "LOD1": 2255,
+   "LOD2": 901
+  },
+  "measure_runs": 2,
+  "validator_errors": {
+   "LOD0": 0,
+   "LOD1": 0,
+   "LOD2": 0
+  },
+  "validator_warnings": {
+   "LOD0": 1,
+   "LOD1": 1,
+   "LOD2": 1
+  },
+  "bytes": {
+   "LOD0": 8924756,
+   "LOD1": 8874008,
+   "LOD2": 8841652
+  }
+ }
+]

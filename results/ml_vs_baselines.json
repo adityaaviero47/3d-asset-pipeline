@@ -1,0 +1,78 @@
+{
+ "budget_0.0005": {
+  "oracle": {
+   "within_budget": 1.0,
+   "tris_kept": 0.1982811226782915,
+   "evals_per_mesh": 0.0
+  },
+  "fixed-0.5": {
+   "within_budget": 0.673469387755102,
+   "tris_kept": 0.49997259443045744,
+   "evals_per_mesh": 0.0
+  },
+  "fixed-0.3": {
+   "within_budget": 0.4336734693877551,
+   "tris_kept": 0.2999364190786613,
+   "evals_per_mesh": 0.0
+  },
+  "fixed-0.2": {
+   "within_budget": 0.34183673469387754,
+   "tris_kept": 0.1999974421468427,
+   "evals_per_mesh": 0.0
+  },
+  "search": {
+   "within_budget": 1.0,
+   "tris_kept": 0.1982811226782915,
+   "evals_per_mesh": 3.75
+  },
+  "ml": {
+   "within_budget": 1.0,
+   "tris_kept": 0.240495565778848,
+   "evals_per_mesh": 1.3928571428571428,
+   "first_try_pass": 0.7653061224489796,
+   "mean_abs_log_err": 0.3811286785470521
+  },
+  "n_meshes": 196,
+  "n_assets": 36,
+  "n_tris": 2736670,
+  "budget": 0.0005
+ },
+ "budget_0.002": {
+  "oracle": {
+   "within_budget": 1.0,
+   "tris_kept": 0.08782133030288636,
+   "evals_per_mesh": 0.0
+  },
+  "fixed-0.5": {
+   "within_budget": 0.9438775510204082,
+   "tris_kept": 0.49997259443045744,
+   "evals_per_mesh": 0.0
+  },
+  "fixed-0.3": {
+   "within_budget": 0.8826530612244898,
+   "tris_kept": 0.2999364190786613,
+   "evals_per_mesh": 0.0
+  },
+  "fixed-0.2": {
+   "within_budget": 0.6938775510204082,
+   "tris_kept": 0.1999974421468427,
+   "evals_per_mesh": 0.0
+  },
+  "search": {
+   "within_budget": 1.0,
+   "tris_kept": 0.08782133030288636,
+   "evals_per_mesh": 3.811224489795918
+  },
+  "ml": {
+   "within_budget": 1.0,
+   "tris_kept": 0.11370680425480602,
+   "evals_per_mesh": 1.3622448979591837,
+   "first_try_pass": 0.8112244897959183,
+   "mean_abs_log_err": 0.3286754540365637
+  },
+  "n_meshes": 196,
+  "n_assets": 36,
+  "n_tris": 2736670,
+  "budget": 0.002
+ }
+}
