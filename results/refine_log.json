@@ -1,0 +1,248 @@
+[
+ {
+  "asset": "Avocado",
+  "rounds": 2,
+  "bump": {
+   "LOD2": 2
+  },
+  "still_failing": [],
+  "ssim_before": {
+   "LOD2": 0.8878148396082375
+  },
+  "ssim_after": {
+   "LOD2": 0.9354598609786934
+  },
+  "tris": {
+   "LOD0": 682,
+   "LOD1": 545,
+   "LOD2": 477
+  }
+ },
+ {
+  "asset": "BarramundiFish",
+  "rounds": 4,
+  "bump": {
+   "LOD2": 4
+  },
+  "still_failing": [
+   "LOD2"
+  ],
+  "ssim_before": {
+   "LOD2": 0.7914471438817637
+  },
+  "ssim_after": {
+   "LOD2": 0.8832272050774739
+  },
+  "tris": {
+   "LOD0": 3864,
+   "LOD1": 1932,
+   "LOD2": 2318
+  }
+ },
+ {
+  "asset": "BoomBox",
+  "rounds": 3,
+  "bump": {
+   "LOD2": 3
+  },
+  "still_failing": [],
+  "ssim_before": {
+   "LOD2": 0.8423595015179951
+  },
+  "ssim_after": {
+   "LOD2": 0.9083163148253416
+  },
+  "tris": {
+   "LOD0": 6036,
+   "LOD1": 3620,
+   "LOD2": 3017
+  }
+ },
+ {
+  "asset": "CarConcept",
+  "rounds": 1,
+  "bump": {
+   "LOD1": 1
+  },
+  "still_failing": [],
+  "ssim_before": {
+   "LOD1": 0.8942865084631004
+  },
+  "ssim_after": {
+   "LOD1": 0.9217344270545633
+  },
+  "tris": {
+   "LOD0": 213279,
+   "LOD1": 95406,
+   "LOD2": 42056
+  }
+ },
+ {
+  "asset": "DamagedHelmet",
+  "rounds": 2,
+  "bump": {
+   "LOD2": 2
+  },
+  "still_failing": [],
+  "ssim_before": {
+   "LOD2": 0.8529844748106089
+  },
+  "ssim_after": {
+   "LOD2": 0.9025282006989144
+  },
+  "tris": {
+   "LOD0": 15452,
+   "LOD1": 9271,
+   "LOD2": 7725
+  }
+ },
+ {
+  "asset": "GlamVelvetSofa",
+  "rounds": 1,
+  "bump": {
+   "LOD2": 1
+  },
+  "still_failing": [],
+  "ssim_before": {
+   "LOD2": 0.8759453826530204
+  },
+  "ssim_after": {
+   "LOD2": 0.9234388966392505
+  },
+  "tris": {
+   "LOD0": 4196,
+   "LOD1": 2314,
+   "LOD2": 1083
+  }
+ },
+ {
+  "asset": "IridescenceLamp",
+  "rounds": 4,
+  "bump": {
+   "LOD1": 2,
+   "LOD2": 4
+  },
+  "still_failing": [],
+  "ssim_before": {
+   "LOD1": 0.852747419298488,
+   "LOD2": 0.7967774985484035
+  },
+  "ssim_after": {
+   "LOD1": 0.9467787439471447,
+   "LOD2": 0.9365498330824219
+  },
+  "tris": {
+   "LOD0": 18866,
+   "LOD1": 12017,
+   "LOD2": 9879
+  }
+ },
+ {
+  "asset": "Lantern",
+  "rounds": 4,
+  "bump": {
+   "LOD1": 4,
+   "LOD2": 4
+  },
+  "still_failing": [
+   "LOD2"
+  ],
+  "ssim_before": {
+   "LOD1": 0.7719001570842497,
+   "LOD2": 0.5977686593612117
+  },
+  "ssim_after": {
+   "LOD1": 0.9369870727570788,
+   "LOD2": 0.7012957423015161
+  },
+  "tris": {
+   "LOD0": 5388,
+   "LOD1": 5300,
+   "LOD2": 3692
+  }
+ },
+ {
+  "asset": "PotOfCoals",
+  "rounds": 2,
+  "bump": {
+   "LOD2": 2
+  },
+  "still_failing": [],
+  "ssim_before": {
+   "LOD2": 0.8194142182711461
+  },
+  "ssim_after": {
+   "LOD2": 0.9114527573726398
+  },
+  "tris": {
+   "LOD0": 18223,
+   "LOD1": 8579,
+   "LOD2": 4935
+  }
+ },
+ {
+  "asset": "SheenWoodLeatherSofa",
+  "rounds": 4,
+  "bump": {
+   "LOD1": 2,
+   "LOD2": 4
+  },
+  "still_failing": [],
+  "ssim_before": {
+   "LOD1": 0.8725018398100404,
+   "LOD2": 0.8284777468697446
+  },
+  "ssim_after": {
+   "LOD1": 0.9153984115617957,
+   "LOD2": 0.9129763612851299
+  },
+  "tris": {
+   "LOD0": 37532,
+   "LOD1": 18318,
+   "LOD2": 15528
+  }
+ },
+ {
+  "asset": "SpecularSilkPouf",
+  "rounds": 1,
+  "bump": {
+   "LOD2": 1
+  },
+  "still_failing": [],
+  "ssim_before": {
+   "LOD2": 0.8506846535899489
+  },
+  "ssim_after": {
+   "LOD2": 0.9079663437382126
+  },
+  "tris": {
+   "LOD0": 81280,
+   "LOD1": 32512,
+   "LOD2": 12192
+  }
+ },
+ {
+  "asset": "WaterBottle",
+  "rounds": 4,
+  "bump": {
+   "LOD1": 3,
+   "LOD2": 4
+  },
+  "still_failing": [
+   "LOD2"
+  ],
+  "ssim_before": {
+   "LOD1": 0.8342493082824057,
+   "LOD2": 0.6415804502847224
+  },
+  "ssim_after": {
+   "LOD1": 0.9131383599309565,
+   "LOD2": 0.8242158992792434
+  },
+  "tris": {
+   "LOD0": 4510,
+   "LOD1": 3608,
+   "LOD2": 2706
+  }
+ }
+]
