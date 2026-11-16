@@ -1,0 +1,6 @@
+venv/
+node_modules/
+data/
+out/
+__pycache__/
+*.glb
