@@ -2,7 +2,7 @@
  {
   "asset": "ABeautifulGame",
   "meshes": 49,
-  "seconds": 101.48,
+  "seconds": 119.82,
   "fixable_issues_before": 195794,
   "fixable_issues_after": 232,
   "audit_before": {
@@ -51,14 +51,14 @@
   },
   "bytes": {
    "LOD0": 47370080,
-   "LOD1": 23764464,
-   "LOD2": 21375472
+   "LOD1": 7560724,
+   "LOD2": 3228024
   }
  },
  {
   "asset": "AnisotropyBarnLamp",
   "meshes": 3,
-  "seconds": 3.36,
+  "seconds": 8.31,
   "fixable_issues_before": 2512,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -107,14 +107,14 @@
   },
   "bytes": {
    "LOD0": 7693528,
-   "LOD1": 7575740,
-   "LOD2": 7496228
+   "LOD1": 3128484,
+   "LOD2": 892476
   }
  },
  {
   "asset": "AntiqueCamera",
   "meshes": 2,
-  "seconds": 7.2,
+  "seconds": 11.63,
   "fixable_issues_before": 10959,
   "fixable_issues_after": 1,
   "audit_before": {
@@ -163,14 +163,14 @@
   },
   "bytes": {
    "LOD0": 17483596,
-   "LOD1": 17282172,
-   "LOD2": 17007988
+   "LOD1": 6780628,
+   "LOD2": 1928888
   }
  },
  {
   "asset": "Avocado",
   "meshes": 1,
-  "seconds": 1.15,
+  "seconds": 2.92,
   "fixable_issues_before": 44,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -204,7 +204,7 @@
   "tris": {
    "LOD0": 682,
    "LOD1": 545,
-   "LOD2": 341
+   "LOD2": 477
   },
   "measure_runs": 2,
   "validator_errors": {
@@ -219,14 +219,17 @@
   },
   "bytes": {
    "LOD0": 8103676,
-   "LOD1": 8100104,
-   "LOD2": 8095232
+   "LOD1": 2139792,
+   "LOD2": 565428
+  },
+  "bump": {
+   "LOD2": 2
   }
  },
  {
   "asset": "BarramundiFish",
   "meshes": 1,
-  "seconds": 1.27,
+  "seconds": 3.05,
   "fixable_issues_before": 251,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -260,7 +263,7 @@
   "tris": {
    "LOD0": 3864,
    "LOD1": 1932,
-   "LOD2": 772
+   "LOD2": 2318
   },
   "measure_runs": 2,
   "validator_errors": {
@@ -275,14 +278,17 @@
   },
   "bytes": {
    "LOD0": 12453252,
-   "LOD1": 12407548,
-   "LOD2": 12380520
+   "LOD1": 3378612,
+   "LOD2": 968648
+  },
+  "bump": {
+   "LOD2": 4
   }
  },
  {
   "asset": "BoomBox",
   "meshes": 1,
-  "seconds": 1.41,
+  "seconds": 3.28,
   "fixable_issues_before": 443,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -316,7 +322,7 @@
   "tris": {
    "LOD0": 6036,
    "LOD1": 3620,
-   "LOD2": 1207
+   "LOD2": 3017
   },
   "measure_runs": 2,
   "validator_errors": {
@@ -331,14 +337,17 @@
   },
   "bytes": {
    "LOD0": 10556688,
-   "LOD1": 10498960,
-   "LOD2": 10439928
+   "LOD1": 2802728,
+   "LOD2": 750244
+  },
+  "bump": {
+   "LOD2": 3
   }
  },
  {
   "asset": "CarConcept",
   "meshes": 97,
-  "seconds": 56.3,
+  "seconds": 65.33,
   "fixable_issues_before": 50081,
   "fixable_issues_after": 6,
   "audit_before": {
@@ -371,10 +380,10 @@
   },
   "tris": {
    "LOD0": 213279,
-   "LOD1": 78250,
+   "LOD1": 95406,
    "LOD2": 42056
   },
-  "measure_runs": 120,
+  "measure_runs": 115,
   "validator_errors": {
    "LOD0": 0,
    "LOD1": 0,
@@ -387,14 +396,17 @@
   },
   "bytes": {
    "LOD0": 10877732,
-   "LOD1": 6433852,
-   "LOD2": 5105504
+   "LOD1": 6064292,
+   "LOD2": 3611748
+  },
+  "bump": {
+   "LOD1": 1
   }
  },
  {
   "asset": "CarbonFibre",
   "meshes": 1,
-  "seconds": 0.73,
+  "seconds": 0.72,
   "fixable_issues_before": 143,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -450,7 +462,7 @@
  {
   "asset": "CesiumMilkTruck",
   "meshes": 3,
-  "seconds": 6.96,
+  "seconds": 7.43,
   "fixable_issues_before": 2986,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -499,14 +511,14 @@
   },
   "bytes": {
    "LOD0": 347456,
-   "LOD1": 335892,
-   "LOD2": 311576
+   "LOD1": 192976,
+   "LOD2": 123192
   }
  },
  {
   "asset": "ChairDamaskPurplegold",
   "meshes": 11,
-  "seconds": 5.9,
+  "seconds": 6.0,
   "fixable_issues_before": 904,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -556,13 +568,13 @@
   "bytes": {
    "LOD0": 2467132,
    "LOD1": 2383928,
-   "LOD2": 2302380
+   "LOD2": 2030468
   }
  },
  {
   "asset": "ChronographWatch",
   "meshes": 13,
-  "seconds": 18.47,
+  "seconds": 26.7,
   "fixable_issues_before": 53922,
   "fixable_issues_after": 3,
   "audit_before": {
@@ -611,14 +623,14 @@
   },
   "bytes": {
    "LOD0": 6702436,
-   "LOD1": 4835948,
-   "LOD2": 4384956
+   "LOD1": 3695788,
+   "LOD2": 1922300
   }
  },
  {
   "asset": "ClearCoatCarPaint",
   "meshes": 1,
-  "seconds": 0.69,
+  "seconds": 0.7,
   "fixable_issues_before": 190,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -674,7 +686,7 @@
  {
   "asset": "CommercialRefrigerator",
   "meshes": 6,
-  "seconds": 13.7,
+  "seconds": 14.89,
   "fixable_issues_before": 8814,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -723,14 +735,14 @@
   },
   "bytes": {
    "LOD0": 7934188,
-   "LOD1": 3638216,
-   "LOD2": 3608736
+   "LOD1": 2302568,
+   "LOD2": 1176292
   }
  },
  {
   "asset": "Corset",
   "meshes": 1,
-  "seconds": 4.6,
+  "seconds": 4.67,
   "fixable_issues_before": 1756,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -779,14 +791,14 @@
   },
   "bytes": {
    "LOD0": 13306980,
-   "LOD1": 13075128,
-   "LOD2": 12982992
+   "LOD1": 3853088,
+   "LOD2": 1169248
   }
  },
  {
   "asset": "DamagedHelmet",
   "meshes": 1,
-  "seconds": 3.91,
+  "seconds": 4.24,
   "fixable_issues_before": 5896,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -820,7 +832,7 @@
   "tris": {
    "LOD0": 15452,
    "LOD1": 9271,
-   "LOD2": 4635
+   "LOD2": 7725
   },
   "measure_runs": 2,
   "validator_errors": {
@@ -835,14 +847,17 @@
   },
   "bytes": {
    "LOD0": 8451252,
-   "LOD1": 8275632,
-   "LOD2": 8139592
+   "LOD1": 2379384,
+   "LOD2": 851836
+  },
+  "bump": {
+   "LOD2": 2
   }
  },
  {
   "asset": "DiffuseTransmissionPlant",
   "meshes": 9,
-  "seconds": 6.08,
+  "seconds": 7.11,
   "fixable_issues_before": 14698,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -892,13 +907,13 @@
   "bytes": {
    "LOD0": 5579636,
    "LOD1": 5011924,
-   "LOD2": 4266376
+   "LOD2": 1476716
   }
  },
  {
   "asset": "DragonAttenuation",
   "meshes": 2,
-  "seconds": 9.74,
+  "seconds": 11.15,
   "fixable_issues_before": 71575,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -947,14 +962,14 @@
   },
   "bytes": {
    "LOD0": 5198944,
-   "LOD1": 1720956,
-   "LOD2": 1076172
+   "LOD1": 1254780,
+   "LOD2": 535900
   }
  },
  {
   "asset": "Duck",
   "meshes": 1,
-  "seconds": 0.83,
+  "seconds": 0.82,
   "fixable_issues_before": 292,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1010,7 +1025,7 @@
  {
   "asset": "Fox",
   "meshes": 2,
-  "seconds": 0.76,
+  "seconds": 0.93,
   "fixable_issues_before": 1438,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1060,13 +1075,13 @@
   "bytes": {
    "LOD0": 79504,
    "LOD1": 77108,
-   "LOD2": 74168
+   "LOD2": 81180
   }
  },
  {
   "asset": "GlamVelvetSofa",
   "meshes": 3,
-  "seconds": 1.72,
+  "seconds": 2.59,
   "fixable_issues_before": 739,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1100,7 +1115,7 @@
   "tris": {
    "LOD0": 4196,
    "LOD1": 2314,
-   "LOD2": 888
+   "LOD2": 1083
   },
   "measure_runs": 4,
   "validator_errors": {
@@ -1116,13 +1131,16 @@
   "bytes": {
    "LOD0": 3144044,
    "LOD1": 3096980,
-   "LOD2": 3059224
+   "LOD2": 767104
+  },
+  "bump": {
+   "LOD2": 1
   }
  },
  {
   "asset": "GlassHurricaneCandleHolder",
   "meshes": 2,
-  "seconds": 2.97,
+  "seconds": 5.96,
   "fixable_issues_before": 315,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1171,14 +1189,14 @@
   },
   "bytes": {
    "LOD0": 2704184,
-   "LOD1": 2685148,
-   "LOD2": 2652748
+   "LOD1": 1148540,
+   "LOD2": 348544
   }
  },
  {
   "asset": "GlassVaseFlowers",
   "meshes": 4,
-  "seconds": 3.9,
+  "seconds": 4.12,
   "fixable_issues_before": 388,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1228,13 +1246,13 @@
   "bytes": {
    "LOD0": 2106824,
    "LOD1": 1978608,
-   "LOD2": 1884604
+   "LOD2": 621748
   }
  },
  {
   "asset": "IridescenceLamp",
   "meshes": 3,
-  "seconds": 3.73,
+  "seconds": 6.64,
   "fixable_issues_before": 979,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1267,10 +1285,10 @@
   },
   "tris": {
    "LOD0": 18866,
-   "LOD1": 8300,
-   "LOD2": 3052
+   "LOD1": 12017,
+   "LOD2": 9879
   },
-  "measure_runs": 6,
+  "measure_runs": 5,
   "validator_errors": {
    "LOD0": 0,
    "LOD1": 0,
@@ -1283,14 +1301,18 @@
   },
   "bytes": {
    "LOD0": 4075576,
-   "LOD1": 3830900,
-   "LOD2": 3711260
+   "LOD1": 1914796,
+   "LOD2": 672476
+  },
+  "bump": {
+   "LOD1": 2,
+   "LOD2": 4
   }
  },
  {
   "asset": "IridescentDishWithOlives",
   "meshes": 4,
-  "seconds": 5.22,
+  "seconds": 7.41,
   "fixable_issues_before": 2541,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1339,14 +1361,14 @@
   },
   "bytes": {
    "LOD0": 5687840,
-   "LOD1": 5408276,
-   "LOD2": 5147508
+   "LOD1": 3353168,
+   "LOD2": 1554864
   }
  },
  {
   "asset": "Lantern",
   "meshes": 3,
-  "seconds": 6.23,
+  "seconds": 4.91,
   "fixable_issues_before": 1415,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1379,10 +1401,10 @@
   },
   "tris": {
    "LOD0": 5388,
-   "LOD1": 3644,
-   "LOD2": 2034
+   "LOD1": 5300,
+   "LOD2": 3692
   },
-  "measure_runs": 12,
+  "measure_runs": 5,
   "validator_errors": {
    "LOD0": 0,
    "LOD1": 0,
@@ -1395,14 +1417,18 @@
   },
   "bytes": {
    "LOD0": 9491248,
-   "LOD1": 9446576,
-   "LOD2": 9405104
+   "LOD1": 2901892,
+   "LOD2": 877284
+  },
+  "bump": {
+   "LOD1": 4,
+   "LOD2": 4
   }
  },
  {
   "asset": "MaterialsVariantsShoe",
   "meshes": 1,
-  "seconds": 2.29,
+  "seconds": 4.94,
   "fixable_issues_before": 1609,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1451,14 +1477,14 @@
   },
   "bytes": {
    "LOD0": 7690024,
-   "LOD1": 7314996,
-   "LOD2": 7230184
+   "LOD1": 734600,
+   "LOD2": 260496
   }
  },
  {
   "asset": "MosquitoInAmber",
   "meshes": 3,
-  "seconds": 3.48,
+  "seconds": 7.39,
   "fixable_issues_before": 8541,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1507,14 +1533,14 @@
   },
   "bytes": {
    "LOD0": 23898736,
-   "LOD1": 23781228,
-   "LOD2": 23575768
+   "LOD1": 3318220,
+   "LOD2": 1150672
   }
  },
  {
   "asset": "PotOfCoals",
   "meshes": 2,
-  "seconds": 3.02,
+  "seconds": 4.77,
   "fixable_issues_before": 45359,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1548,7 +1574,7 @@
   "tris": {
    "LOD0": 18223,
    "LOD1": 8579,
-   "LOD2": 2465
+   "LOD2": 4935
   },
   "measure_runs": 4,
   "validator_errors": {
@@ -1563,14 +1589,17 @@
   },
   "bytes": {
    "LOD0": 3142448,
-   "LOD1": 2927236,
-   "LOD2": 2789064
+   "LOD1": 995356,
+   "LOD2": 359080
+  },
+  "bump": {
+   "LOD2": 2
   }
  },
  {
   "asset": "SheenChair",
   "meshes": 4,
-  "seconds": 4.69,
+  "seconds": 4.85,
   "fixable_issues_before": 1775,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1620,13 +1649,13 @@
   "bytes": {
    "LOD0": 4602932,
    "LOD1": 3733296,
-   "LOD2": 3616116
+   "LOD2": 1968444
   }
  },
  {
   "asset": "SheenWoodLeatherSofa",
   "meshes": 6,
-  "seconds": 6.85,
+  "seconds": 8.06,
   "fixable_issues_before": 119619,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1659,10 +1688,10 @@
   },
   "tris": {
    "LOD0": 37532,
-   "LOD1": 10918,
-   "LOD2": 4010
+   "LOD1": 18318,
+   "LOD2": 15528
   },
-  "measure_runs": 13,
+  "measure_runs": 12,
   "validator_errors": {
    "LOD0": 0,
    "LOD1": 0,
@@ -1670,19 +1699,23 @@
   },
   "validator_warnings": {
    "LOD0": 6,
-   "LOD1": 6,
-   "LOD2": 6
+   "LOD1": 7,
+   "LOD2": 8
   },
   "bytes": {
    "LOD0": 4695396,
-   "LOD1": 3941120,
-   "LOD2": 3722652
+   "LOD1": 2222152,
+   "LOD2": 976268
+  },
+  "bump": {
+   "LOD1": 2,
+   "LOD2": 4
   }
  },
  {
   "asset": "SpecularSilkPouf",
   "meshes": 1,
-  "seconds": 5.41,
+  "seconds": 4.03,
   "fixable_issues_before": 690,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1716,7 +1749,7 @@
   "tris": {
    "LOD0": 81280,
    "LOD1": 32512,
-   "LOD2": 8128
+   "LOD2": 12192
   },
   "measure_runs": 2,
   "validator_errors": {
@@ -1732,13 +1765,16 @@
   "bytes": {
    "LOD0": 4141000,
    "LOD1": 3056544,
-   "LOD2": 2506716
+   "LOD2": 1068404
+  },
+  "bump": {
+   "LOD2": 1
   }
  },
  {
   "asset": "SunglassesKhronos",
   "meshes": 8,
-  "seconds": 5.04,
+  "seconds": 4.73,
   "fixable_issues_before": 508,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1788,13 +1824,13 @@
   "bytes": {
    "LOD0": 365960,
    "LOD1": 216820,
-   "LOD2": 148984
+   "LOD2": 90972
   }
  },
  {
   "asset": "ToyCar",
   "meshes": 3,
-  "seconds": 9.68,
+  "seconds": 9.71,
   "fixable_issues_before": 21038,
   "fixable_issues_after": 30,
   "audit_before": {
@@ -1844,13 +1880,13 @@
   "bytes": {
    "LOD0": 4603284,
    "LOD1": 2310504,
-   "LOD2": 2125440
+   "LOD2": 1548120
   }
  },
  {
   "asset": "TrafficCone",
   "meshes": 4,
-  "seconds": 6.05,
+  "seconds": 5.91,
   "fixable_issues_before": 1846,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1900,13 +1936,13 @@
   "bytes": {
    "LOD0": 2100568,
    "LOD1": 1786836,
-   "LOD2": 1764260
+   "LOD2": 334544
   }
  },
  {
   "asset": "VirtualCity",
   "meshes": 135,
-  "seconds": 12.31,
+  "seconds": 11.86,
   "fixable_issues_before": 14712,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1956,13 +1992,13 @@
   "bytes": {
    "LOD0": 1834400,
    "LOD1": 1821532,
-   "LOD2": 1768828
+   "LOD2": 1645252
   }
  },
  {
   "asset": "WaterBottle",
   "meshes": 1,
-  "seconds": 1.61,
+  "seconds": 4.01,
   "fixable_issues_before": 165,
   "fixable_issues_after": 0,
   "audit_before": {
@@ -1995,8 +2031,8 @@
   },
   "tris": {
    "LOD0": 4510,
-   "LOD1": 2255,
-   "LOD2": 901
+   "LOD1": 3608,
+   "LOD2": 2706
   },
   "measure_runs": 2,
   "validator_errors": {
@@ -2011,8 +2047,12 @@
   },
   "bytes": {
    "LOD0": 8924756,
-   "LOD1": 8874008,
-   "LOD2": 8841652
+   "LOD1": 2282720,
+   "LOD2": 619064
+  },
+  "bump": {
+   "LOD1": 3,
+   "LOD2": 4
   }
  }
 ]
